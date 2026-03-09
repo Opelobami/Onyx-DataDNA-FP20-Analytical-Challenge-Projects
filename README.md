@@ -57,3 +57,13 @@ This repository demonstrates continuous learning, structured problem-solving, an
 - **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
 
 ---
+
+### Holiday Omnichannel Sales and Marketing Analysis
+
+**A Power BI analytics solution that decodes a fictional retailer's holiday season performance, revealing which channels, campaigns, and customer segments drove profit, and where stockouts, shipping delays, and returns quietly eroded it**
+
+- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/16wMfe288hLWujMVQWpogLDoZJrtWNIaA?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
+
+---
